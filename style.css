@@ -1,0 +1,40 @@
+th {
+	font-size: 1.75vw;
+}
+
+td {
+	font-size: 1.25vw;
+}
+
+#header {
+	background-color: #730000;
+	text-align: center;
+	color: white;
+}
+
+#header-text {
+	font-size: 10vw;
+}
+
+#train-schedule-header, #add-train-header, #submit-button {
+	background-color: #730000;
+	color: white;
+}
+
+#submit-button {
+	width: 100px;
+	font-size: 1.75vw;
+
+}
+
+.title {
+	font-size: 2.5vw;
+}
+
+.content-block {
+	border: 1px solid #000000;
+}
+
+.input-title {
+	font-size: 1.25vw;
+}
